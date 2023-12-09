@@ -1,0 +1,2 @@
+This code generates 100 rows of synthetic data with random values for each column, including the 'Location' column, which indicates whether the purchase was made in-store or online.
+
